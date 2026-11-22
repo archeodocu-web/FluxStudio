@@ -1,0 +1,27 @@
+THIRD-PARTY SOFTWARE AND MODEL NOTICES
+
+1. stable-diffusion.cpp
+   Project: https://github.com/leejet/stable-diffusion.cpp
+   License: MIT License
+   Copyright (c) 2023 leejet
+
+   The stable-diffusion.cpp Windows Vulkan executable is downloaded by Flux Studio
+   from the upstream project's GitHub Releases during first-time setup. The upstream
+   project license is available at:
+   https://github.com/leejet/stable-diffusion.cpp/blob/master/LICENSE
+
+2. FLUX.2 Klein 4B GGUF / Qwen3 4B GGUF
+   Model repository: https://huggingface.co/manishdashsharma/flux2-klein-4b-gguf
+   License stated by the model repository: Apache License 2.0.
+   The repository provides the quantized diffusion model, Qwen3 text encoder,
+   FLUX.2 VAE and a SHA256SUMS.txt file. Model files are downloaded by Flux Studio
+   during first-time setup.
+
+3. FLUX.2 Klein 4B
+   Original model family by Black Forest Labs.
+   This application is an independent front-end and is not affiliated with or
+   endorsed by Black Forest Labs, AMD or the stable-diffusion.cpp maintainers.
+
+The full license texts for third-party binaries and model weights are provided by
+or linked from their respective upstream repositories. Consult those repositories
+for the terms applicable to each downloaded component.

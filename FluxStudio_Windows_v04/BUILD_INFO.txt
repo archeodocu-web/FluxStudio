@@ -1,0 +1,9 @@
+Product: Flux Studio
+Version: 0.4
+Target: Windows x64 GUI
+Language: German
+Model: FLUX.2 Klein 4B GGUF Q4_0
+Engine: stable-diffusion.cpp Vulkan CLI
+Icon: embedded Win32 group icon resource (RT_GROUP_ICON + RT_ICON)
+Startup fix: GetStockObject dynamically loaded from gdi32.dll, not user32.dll
+Build: Go 1.23.2, GOOS=windows, GOARCH=amd64, CGO_ENABLED=0
