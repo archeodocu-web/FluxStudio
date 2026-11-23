@@ -64,3 +64,7 @@ The long-term goal is to create a simple, self-contained Windows image editor th
 ## Status
 
 Working local image generation and image-to-image processing with AMD Vulkan GPU support.
+
+
+<img width="1148" height="952" alt="Capture" src="https://github.com/user-attachments/assets/8acfd83c-6adb-478e-a8f3-5a5d856db35a" />
+
